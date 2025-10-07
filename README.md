@@ -1,1 +1,1 @@
-# solo
+# NkortaQR
